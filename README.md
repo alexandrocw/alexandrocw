@@ -11,4 +11,5 @@ About me :
 - 📫 How to reach me: alexandrowijaya.aw2@gmail.com
 - ⚡ Fun fact: I'm an otaku.
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=alexandrocw&show_icons=true&theme=tokyonight"> </p>
+
+[![Alexandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandrocw&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
