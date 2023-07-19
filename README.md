@@ -7,7 +7,7 @@
 About me :
 
 - 🔭 I’m currently studying in Universitas Gadjah Mada, Indonesia.
-- 🌱 I’m currently learning to be full stack web developer.
+- 🌱 I’m currently learning all the things interests me like full stack web development, game development, and etc.
 - 📫 How to reach me: alexandrowijaya.aw2@gmail.com
 - ⚡ Fun fact: I'm an otaku.
 
